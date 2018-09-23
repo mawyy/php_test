@@ -1,3 +1,1 @@
-J'apprends php 
-
-et c cool
+Lancer un serveur en local : "php -S 0.0.0.0:8888"
